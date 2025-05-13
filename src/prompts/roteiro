@@ -1,0 +1,24 @@
+Prompt Roteiro
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de curiosidades chinesas, focado na cultura e história cujo o nome é "Rota de Jade: caminhos históricos da cultura chinesa" e tem foco na a História da China, sua política e desenvolvimento, utilizando fatos históricos, com o público alvo sendo estudantes universitários
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'você sabia?'
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre a História da China
+- no bloco [CURIOSIDADE 2] sobre curiosidade sobre a Cultura da China
+- no bloco [FINALIZAÇÃO] substitua por uma despedida falando sobre alguma atualidade da china
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Israel
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
