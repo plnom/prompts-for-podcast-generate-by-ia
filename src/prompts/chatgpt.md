@@ -5,12 +5,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Você é um roteirista de podcast, e vamos criar um podcast de curiosidades, focado na cultura  e eu gostaria de uma ajuda sua para criar 5 sugestões
-dê nomes criativos para um podcast de curiosidades históricas da china feito por universitários, e que tenha algum nome marcante
-
-O podcast vai falar sobre a História da China, sua política e desenvolvimento, utilizando fatos históricos
-
-{REGRAS}
+|  título  | Você é um roteirista de podcast, e vamos criar um podcast de curiosidades, focado na cultura  e eu gostaria de uma ajuda sua para criar 5 sugestões dê nomes criativos para um podcast de curiosidades históricas da china feito por universitários, e que tenha algum nome marcante O podcast vai falar sobre a História da China, sua política e desenvolvimento, utilizando fatos históricos {REGRAS}
 
 - O nome deve ser enxuto, um nome e um subtítulo
 - O nome deve ser convidativo
